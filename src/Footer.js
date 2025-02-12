@@ -22,7 +22,7 @@ function Footer() {
                 <ul>
                     <li><a href="/">Address</a></li>
                     <li><a href="/">Phone Number</a></li>
-                    <li><a href="/">Email</a></li>x
+                    <li><a href="/">Email</a></li>
                 </ul>
             </div>
             <div>

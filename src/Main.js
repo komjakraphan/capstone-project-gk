@@ -9,6 +9,15 @@ function Main() {
             <div>
                 <h1>Reserve a table</h1>
             </div>
+            <div>
+                <p>Number of people</p>
+                <p>Date</p>
+                <p>Time</p>
+                <p>Occasion</p>
+                <p>Special Request</p>
+                <button>Review Reservation</button>
+                <button>Modify Reservation</button>
+            </div>
         </main>
     );
 }
